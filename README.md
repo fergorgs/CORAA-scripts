@@ -1,7 +1,10 @@
 # CORAA-scripts
 
 These are some of the scripts I implemented when working on my 2nd scientific initiation, in which I contributed to the creation of the CORAA dataset, 
-created to assist the training of portuguese automatic speech recognition tools. In general, my job
+created to assist the training of portuguese automatic speech recognition tools. 
+Avalible at: https://github.com/nilc-nlp/CORAA
+
+In general, my job
 was to pre-process audio and transcription so it could later be validated manually by hired students. I was also
 charged with generating many kinds of metrics and informations about the audios and transcriptions collected.
 
